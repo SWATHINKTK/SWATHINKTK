@@ -1,43 +1,8 @@
-
-
-<div style="background-color: #333; padding: 20px 0; text-align: center;">
-  <a href="https://git.io/typing-svg" style="color: #fff; text-decoration: none;">
-    <h2 id="fadeInText" style="font-family: Arial, sans-serif; font-size: 18px; margin: 0; opacity: 0; animation: fadeIn 2s ease-in-out forwards;">
-      I'm Swathin K T K, a MERN Stack Developer
-    </h2>
-  </a>
-</div>
-
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-
-  /* Add more keyframes for repeated animation */
-  @keyframes fadeIn2 {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-
-  @keyframes fadeIn3 {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-  
-  /* Repeat the animation indefinitely */
-  h2 {
-    animation-iteration-count: infinite;
-  }
-
-  /* Delay subsequent animations */
-  #fadeInText {
-    animation-delay: 4s;
-  }
-</style>
+<h1 align="center">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; margin: 0; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+    I'm Swathin K T K, a MERN Stack Developer
+  </h1>
+</h1>
 
 
 <p align="center">
