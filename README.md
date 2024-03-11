@@ -2,7 +2,9 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Swathin....;Nice+to+meet+you!&center=true&size=30">
+     <h1 style="font-family: Arial, sans-serif; font-size: 24px; margin: 0;">
+      I'm Swathin K T K, a MERN Stack Developer
+    </h1>
   </a>
 </h1>
 
