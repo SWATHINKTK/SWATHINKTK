@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/swathinktk46/" target="_blank">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="120" />
+    <img src="https://images.app.goo.gl/3Hjf28X17vASEtVk8" alt="LeetCode" width="120" />
   </a>
 </p>
 
