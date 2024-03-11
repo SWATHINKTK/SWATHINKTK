@@ -7,31 +7,24 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  
+  <code><a href="www.linkedin.com/in/swathinktk" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> LinkedIn</a></code>
+  <code><a href="" title="HackerRank Profile"><img width="22" src="https://hrcdn.net/community-frontend/assets/hackerrank_horizontal_white.svg"> HackerRank</a></code>
+  <code><a href="https://leetcode.com/swathinktk46/" title="leet Overflow Profile"><img width="22" src="https://leetcode.com/static/images/LeetCode_logo_white_no_text.svg"> leetCode</a></code>
+  <code><a href="https://www.instagram.com/swa.dhin_/?igsh=cXR0em1qNnQ4OHM1" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Swathin K T K, esteemed Node.js Express React developer. It's a pleasure to connect with you.
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I graduated from Kannur University, Bachelor of Computer Application degree!
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 That sounds like an exciting learning journey! Building an E-Commerce website with Express.js and React is a great project that will help you gain valuable skills in both backend and frontend development. If you have any questions or need assistance as you progress through your learning, feel free to ask. Happy coding! 🚀
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: swathinktk10@gmail.com">swathinktk10@gmail.com</a>
 </p>
 
 <hr>
