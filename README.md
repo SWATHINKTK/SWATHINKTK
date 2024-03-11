@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/swathinktk46/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" width="120" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />&nbsp;&nbsp;
   </a>
 </p>
 
