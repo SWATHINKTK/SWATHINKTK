@@ -1,9 +1,9 @@
+<br>
 <h1 align="center">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; margin: 0; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-    I'm Swathin K T K, a MERN Stack Developer
-  </h1>
+  I'm Swathin K T K, a passionate MERN Stack Developer!
 </h1>
-
+<br>
+<br>
 
 <p align="center">
   <a href="www.linkedin.com/in/swathinktk" target="_blank">
