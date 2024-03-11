@@ -1,10 +1,10 @@
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-     <h1 style="font-family: Arial, sans-serif; font-size: 24px; margin: 0;">
+  <a href="https://git.io/typing-svg" style="color: #fff; text-decoration: none;">
+    <h2 style="font-family: Arial, sans-serif; font-size: 18px; margin: 0; opacity: 0; animation: fadeIn 1s ease-in-out forwards;">
       I'm Swathin K T K, a MERN Stack Developer
-    </h1>
+    </h2>
   </a>
 </h1>
 
