@@ -37,7 +37,6 @@
 <br>
 <p align="center">
   <!-- Technologies and Tools -->
-## Technologies and Tools
 
 <p>
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" alt="Express.js" />&nbsp;&nbsp;
