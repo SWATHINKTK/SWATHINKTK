@@ -6,13 +6,19 @@
   </a>
 </h1>
 
-<h5 align="center">
-  
-  <code><a href="www.linkedin.com/in/swathinktk" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> LinkedIn</a></code>
-  <code><a href="" title="HackerRank Profile"><img width="22" src="https://hrcdn.net/community-frontend/assets/hackerrank_horizontal_white.svg"> HackerRank</a></code>
-  <code><a href="https://leetcode.com/swathinktk46/" title="leet Overflow Profile"><img width="22" src="https://leetcode.com/static/images/LeetCode_logo_white_no_text.svg"> leetCode</a></code>
-  <code><a href="https://www.instagram.com/swa.dhin_/?igsh=cXR0em1qNnQ4OHM1" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png"> Instagram</a></code>
-</h5>
+<p align="center">
+  <a href="www.linkedin.com/in/swathinktk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/swa.dhin_/?igsh=cXR0em1qNnQ4OHM1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/swathinktk46/" target="_blank">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="120" />
+  </a>
+</p>
+
+<br>
 <br>
 <p align="center">
   Hi, I'm Swathin K T K, esteemed Node.js Express React developer. It's a pleasure to connect with you.
