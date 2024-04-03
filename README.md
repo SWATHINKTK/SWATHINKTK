@@ -1,6 +1,13 @@
-<div style="background-color: #f0f0f0; padding: 20px;">
-  <h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #333;">I'm Swathin K T K</h1>
-  <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #666; margin-top: 10px;">A Skilled MERN Stack Developer!</h2>
+<div style="background-color: #2d3436; padding: 40px;">
+  <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #fff; font-size: 36px;">👋 Hi there, I'm Swathin K T K!</h1>
+  <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #fff; font-size: 24px; margin-top: 20px;">A Skilled MERN Stack Developer 🚀</h2>
+  <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #fff; font-size: 18px; margin-top: 20px;">Welcome to my GitHub profile! I'm passionate about crafting beautiful and efficient web applications using the MERN stack.</p>
+  <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #fff; font-size: 18px; margin-top: 20px;">Let's connect and build something awesome together!</p>
+  <p align="center" style="margin-top: 40px;">
+    <a href="YOUR_LINK_HERE" style="text-decoration: none; background-color: #1abc9c; color: #fff; padding: 10px 20px; border-radius: 5px; font-size: 18px; margin-right: 10px;">Portfolio</a>
+    <a href="YOUR_LINK_HERE" style="text-decoration: none; background-color: #3498db; color: #fff; padding: 10px 20px; border-radius: 5px; font-size: 18px; margin-right: 10px;">LinkedIn</a>
+    <a href="YOUR_LINK_HERE" style="text-decoration: none; background-color: #e74c3c; color: #fff; padding: 10px 20px; border-radius: 5px; font-size: 18px;">Twitter</a>
+  </p>
 </div>
 
 
