@@ -1,9 +1,8 @@
-<br>
-<h1 align="center"  style="font-family: 'Courier New', Courier, monospace;">
-  I'm Swathin K T K, A Skilled MERN Stack Developer!
-</h1>
-<br>
-<br>
+<div style="background-color: #f0f0f0; padding: 20px;">
+  <h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #333;">I'm Swathin K T K</h1>
+  <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #666; margin-top: 10px;">A Skilled MERN Stack Developer!</h2>
+</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swathinktk/" target="_blank">
