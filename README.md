@@ -3,12 +3,7 @@
   <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #fff; font-size: 24px; margin-top: 20px;">A Skilled MERN Stack Developer 🚀</h2>
   <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #fff; font-size: 18px; margin-top: 20px;">Welcome to my GitHub profile! I'm passionate about crafting beautiful and efficient web applications using the MERN stack.</p>
   <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #fff; font-size: 18px; margin-top: 20px;">Let's connect and build something awesome together!</p>
-  <p align="center" style="margin-top: 40px;">
-    <a href="YOUR_LINK_HERE" style="text-decoration: none; background-color: #1abc9c; color: #fff; padding: 10px 20px; border-radius: 5px; font-size: 18px; margin-right: 10px;">Portfolio</a>
-    <a href="YOUR_LINK_HERE" style="text-decoration: none; background-color: #3498db; color: #fff; padding: 10px 20px; border-radius: 5px; font-size: 18px; margin-right: 10px;">LinkedIn</a>
-    <a href="YOUR_LINK_HERE" style="text-decoration: none; background-color: #e74c3c; color: #fff; padding: 10px 20px; border-radius: 5px; font-size: 18px;">Twitter</a>
-  </p>
-</div>
+
 
 
 <p align="center">
@@ -22,6 +17,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />&nbsp;&nbsp;
   </a>
 </p>
+</div>
 
 <br>
 <br>
